@@ -236,12 +236,11 @@ tar -xzf ci_psm_did_dataset.tar.gz
 
 #### BibTeX
 ```bibtex
-@article{Song2024CI_PSM_DID,
-  title={Unbiased Platform-Level Causal Estimation for Search Systems: 
-         A Competitive Isolation PSM-DID Framework},
-  author={Song, Ying and Wang, Yijing and Yang, Hui and others},
+@article{song2025unbiased,
+  title={Unbiased Platform-Level Causal Estimation for Search Systems: A Competitive Isolation PSM-DID Framework},
+  author={Song, Ying and Wang, Yijing and Yang, Hui and Jin, Weihan and Xiong, Jun and Zhou, Congyi and Zhu, Jialin and Gao, Xiang and Chen, Rong and Deng, HuaGuang and others},
   journal={arXiv preprint arXiv:2511.01329},
-  year={2024}
+  year={2025}
 }
 ```
 
