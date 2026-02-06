@@ -164,13 +164,6 @@ Phase 4: DID估计 (DID Estimation)
   year={2025}
 }
 ```
-
-#### Chicago Style
-Song, Ying, et al. "Unbiased Platform-Level Causal Estimation for Search Systems: A Competitive Isolation PSM-DID Framework." arXiv preprint arXiv:2511.01329 (2024).
-
-#### Harvard Style
-Song, Y., Wang, Y., Yang, H., et al., 2024. Unbiased Platform-Level Causal Estimation for Search Systems: A Competitive Isolation PSM-DID Framework. *arXiv preprint arXiv:2511.01329*.
-
 ---
 
 ## 📚 技术文档 / Technical Documentation
