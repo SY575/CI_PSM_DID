@@ -58,12 +58,6 @@ Our framework addresses these challenges through **three core innovations**:
 - 📉 订单量差距：30天 3.44%±2.05% → 1.36%±0.51%
 - 🎯 方差降低：80% vs 基准方法
 
-### 3️⃣ 开源数据集与工具
-首个用于市场干扰分析的公开数据集，支持1.2百万商品规模
-- 📁 完整的数据预处理管道
-- 🧮 参考实现算法
-- 📈 离线/在线评估脚本
-
 ---
 
 ## 🔧 技术方法 / Technical Methods
