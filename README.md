@@ -132,14 +132,6 @@ Phase 4: DID估计 (DID Estimation)
 | GMV提升 | 0.01% ± 0.23% (30天) |
 | 可扩展性 | 支持1.2M商品, 600K日订单 |
 
-### 计算性能 / Computational Performance
-
-| 步骤 | 时间 | 资源 |
-|------|------|------|
-| Min-cut分割 | ~10分钟 | 单机8核, 16GB RAM |
-| 分层匹配 | <1分钟 | 线性复杂度 |
-| DID估计 | <1分钟 | 简单聚合 |
-| **总耗时** | **~11分钟** | **可快速迭代** |
 
 ---
 
@@ -148,10 +140,6 @@ Phase 4: DID估计 (DID Estimation)
 ### 论文发表信息 / Paper Publication
 
 - **arXiv预发表**: [https://arxiv.org/abs/2511.01329](https://arxiv.org/abs/2511.01329)
-- **论文标题**: Unbiased Platform-Level Causal Estimation for Search Systems: A Competitive Isolation PSM-DID Framework
-- **投稿会议**: ACM SIGKDD 2026
-- **会议时间**: August 9-13, 2026
-- **会议地点**: Jeju, Korea
 
 ### 引用方式 / Citation
 
@@ -164,15 +152,6 @@ Phase 4: DID估计 (DID Estimation)
   year={2025}
 }
 ```
----
-
-## 📚 技术文档 / Technical Documentation
-
-- 📑 **完整论文**: [arXiv:2511.01329](https://arxiv.org/abs/2511.01329)
-- 📖 **技术细节**: 详见论文第3-4章节
-- 🔬 **实验设置**: 详见论文第5章节
-- 💡 **最佳实践**: 详见代码示例与文档
-
 ---
 
 ## ❓ 常见问题 / FAQ
