@@ -204,11 +204,6 @@ A: 支持。只需确保不同实验的目标商品在图分割后不重叠即�
 
 ## 👥 贡献者 / Contributors
 
-### 核心开发团队
-- **Ying Song** (宋莹) - Alibaba Group, 首席研究员
-- **Yijing Wang** (王贻晶) - Alibaba Group, 资深工程师
-- **KaiFu Zhang** (张开复) - Alibaba Group, 负责人
-
 ### 完整作者列表
 Ying Song, Yijing Wang, Hui Yang, Weihan Jin, Jun Xiong, Congyi Zhou, Jialin Zhu, Xiang Gao, Rong Chen, HuaGuang Deng, Ying Dai, Fei Xiao, Haihong Tang, Bo Zheng, KaiFu Zhang
 
